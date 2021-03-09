@@ -6,22 +6,22 @@ export function RepositoryList() {
       <ul>
         <li>
           <strong>unform</strong>
-          <p>Forms ini react</p>
+          <p>Forms in react</p>
           <a href="#">Acessar repostórios</a>
         </li>
         <li>
           <strong>unform</strong>
-          <p>Forms ini react</p>
+          <p>Forms in react</p>
           <a href="#">Acessar repostórios</a>
         </li>
         <li>
           <strong>unform</strong>
-          <p>Forms ini react</p>
+          <p>Forms in react</p>
           <a href="#">Acessar repostórios</a>
         </li>
         <li>
           <strong>unform</strong>
-          <p>Forms ini react</p>
+          <p>Forms in react</p>
           <a href="#">Acessar repostórios</a>
         </li>
       </ul>
